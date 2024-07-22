@@ -1,0 +1,94 @@
+* {
+  padding: 0px ;
+  margin: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.bg {
+  margin-left: 150px;
+}
+
+body {
+  background-image: url(bg1.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img {
+  height: 70px;
+  weight : 70px;
+  margin: 5px 5px;
+}
+.logo a {
+  text-decoration: none;
+  color: aqua ;
+}
+.nama {
+  color: aliceblue ;
+  font-size: 8px ;
+  margin: 5px ;
+  padding: 0px;
+}
+
+
+h2 {
+  text-align: center;
+  color: beige;
+  padding: 20px;
+  background: cadetblue;
+  position: sticky;
+  top : 0;
+}
+.filesc {
+  padding: 15px 10px;
+  color : beige;
+  text-align: center;
+}
+.filesc ul {
+  padding: 10px 10px;
+  text-decoration: none;
+  list-style: none;
+  
+}
+.filesc ul li {
+  text-decoration: none ;
+}
+.filesc ul li a {
+  text-decoration: underline 1px  ;
+  color: bisque ;
+  text-align: left;
+  padding: : 5px;
+  margin-bottom: 2px;
+}
+.filesc ul li a:hover {
+  text-decoration: underline;
+  color : red ;
+}
+h4 {
+  text-align: center;
+  color : white ;
+}
+.p1 {
+  text-align: center;
+  color: white ;
+}
+.p2 {
+  text-align: center;
+  color: white ;
+}
+.p3 {
+  color: red ;
+  text-align: center ;
+}
+a.tombol {
+  border-radius: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+hr {
+  width : 100px;
+  height: 1px;
+  margin: auto;
+  color : #154c79;
+  border: solid;
+}
